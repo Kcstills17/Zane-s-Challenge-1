@@ -1,0 +1,7 @@
+				Idea for challenge 1
+
+
+ 1. How much do you weigh in KGS? LB to KG conversion = X/2.20462262
+
+	or
+2. How tall are you in CMs? inch to cm coversion = X times 2.54
